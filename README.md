@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @GuillaumeDeconinck
-- 👀 I’m interested in NodeJS, Rust, Vert.x
-- 🌱 I’m currently learning Rust, and reading a lot of Manning's books.
+# EN
+- 👋 Hi, I’m @GuillaumeDeconinck.
+- 👨‍💻 I'm a backend NodeJS developer. I mainly use TypeScript instead of JavaScript. Note that, technically, I'm a full stack developer, but I prefer the backend side of things (not against a Full stack position though).
+- 📚 I have a Master degree in Computer Science (which means Java, OO, SQL, Bash, ...) from the UCLouvain university, 
+- ☁️ I use everyday Docker and Kubernetes, with CI/CD pipelines (Githut now, Gitlab previously).
+- 👀 I’m interested in Rust, Vert.x & Devops tools.
+- 🌱 I’m currently learning Rust and reading a lot of Manning's books.
 - 💞️ I’m looking for a job in Japan 🇯🇵
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/guillaume-deconinck-9b6a8399/)
 
+# 日本語
+- 👋 こんにちは、@GuillaumeDeconinckと申します。
+- 👨‍💻 Backend NodeJS developerです。JavaScriptよりTypeScriptを使います。実際には、私はFull Stack Developerですが、Backendの方がいちばん好きです。
+- 📚　UCLouvain大学で修士号を取得しています。コンピュータサイエンスを勉強しました(JavaやObject OrientedやSQLやBash等）。
+- ☁️　毎日DockerとKubernetesを使います。CI/CDも使います。
+- 👀 RustとVert.xとDevopsは興味があります。
+- 🌱 最近、Rustを学んでいて、たくさんManningの本を読んでいます。
+- 💞️ ベルギーから、日本での仕事を探しています。
+- 📫 [LinkedIn](https://www.linkedin.com/in/guillaume-deconinck-9b6a8399/)で連絡してください。
+- 🇯🇵 日本語を勉強していますが、まだまだ上手でわありません。日常の会話だけが話せる。Wanikaniで漢字を勉強しています。
+
+# Projects
+- [Todos API](https://github.com/GuillaumeDeconinck/todos-fastify) => Todos API implemented with Fastify in Typescript (NodeJS)
+- [Hooktify (private)](https://github.com/hooktify-io) => ongoing work on my own SaaS
+- [Open Source Race Timing System (deprecated)](https://github.com/osrts) => Race timing system implemented for my master thesis at UCLouvain university.
+
 <!---
-GuillaumeDeconinck/GuillaumeDeconinck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+If there are mistakes in Japanese, sorry 🙏. Do not hesitate to open an issue, I would greatly appreciate it 🙂 !
 --->
