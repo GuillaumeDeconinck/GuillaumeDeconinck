@@ -1,7 +1,7 @@
 # EN
 - 👋 Hi, I’m @GuillaumeDeconinck.
 - 👨‍💻 I'm a backend NodeJS developer. I mainly use TypeScript instead of JavaScript. Note that, technically, I'm a full stack developer, but I prefer the backend side of things (not against a Full stack position though).
-- 📚 I have a Master degree in Computer Science (which means Java, OO, SQL, Bash, ...) from the UCLouvain university.
+- 📚 I have a Master degree in Computer Science (which means Java, OO, SQL, Bash, ...) from UCLouvain (university).
 - ☁️ I use everyday Docker and Kubernetes, with CI/CD pipelines (Github now, Gitlab previously).
 - 👀 I’m interested in Rust, Vert.x & Devops tools.
 - 🌱 I’m currently learning Rust and reading a lot of Manning's books.
