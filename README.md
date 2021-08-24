@@ -20,7 +20,8 @@
 - 🇯🇵 日本語を勉強していますが、まだまだ上手でわありません。日常の会話だけが話せる。Wanikaniで漢字を勉強しています。
 
 # Projects
-- [Todos API](https://github.com/GuillaumeDeconinck/todos-fastify) => Todos API implemented with Fastify in Typescript (NodeJS)
+- [Todos API - Node](https://github.com/GuillaumeDeconinck/todos-fastify) => Todos API implemented with Typescript
+- [Todos API - Go](https://github.com/GuillaumeDeconinck/todos-go) => Todos API implemented with Golang
 - [Hooktify (private)](https://github.com/hooktify-io) => ongoing work on my own SaaS
 - [Open Source Race Timing System (deprecated)](https://github.com/osrts) => Race timing system implemented for my master thesis at UCLouvain university.
 
