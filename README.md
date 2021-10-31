@@ -9,7 +9,7 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/guillaume-deconinck-9b6a8399/)
 
 # 日本語
-- 👋 こんにちは、@GuillaumeDeconinckと申します。
+- 👋 こんにちは、@GuillaumeDeconinckです。
 - 👨‍💻 Backend NodeJS developerです。JavaScriptよりTypeScriptを使います。実際には、私はFull Stack Developerですが、Backendの方がいちばん好きです。
 - 📚 UCLouvain大学で修士号を取得しています。コンピュータサイエンスを勉強しました(JavaやObject OrientedやSQLやBash）。
 - ☁️ 毎日DockerとKubernetesを使います。CI/CDも使います。
