@@ -1,6 +1,6 @@
 # EN
 - 👋 Hi, I’m @GuillaumeDeconinck.
-- 👨‍💻 I'm a backend NodeJS developer. I mainly use TypeScript instead of JavaScript. Note that, technically, I'm a full stack developer, but I mostly prefer the backend side of things.
+- 👨‍💻 I'm a backend NodeJS developer. I mainly use TypeScript. Note that, technically, I'm a full stack developer, but I mostly prefer the backend side of things.
 - 📚 I have a master's degree in computer science from UCLouvain (university).
 - ☁️ I use everyday Docker and Kubernetes, with CI/CD pipelines (Github now, Gitlab previously).
 - 👀 I’m interested in Rust, Vert.x & Devops tools.
@@ -10,7 +10,7 @@
 
 # 日本語
 - 👋 こんにちは、@GuillaumeDeconinckです。
-- 👨‍💻 Backend NodeJS developerです。JavaScriptよりTypeScriptを使います。実際には、私はFull Stack Developerですが、Backendの方がいちばん好きです。
+- 👨‍💻 Backend NodeJS developerです。TypeScriptを使います。実際には、私はFull Stack Developerですが、Backendの方がいちばん好きです。
 - 📚 UCLouvain大学で修士号を取得しています。コンピュータサイエンスを勉強しました(JavaやObject OrientedやSQLやBash）。
 - ☁️ 毎日DockerとKubernetesを使います。CI/CDも使います。
 - 👀 RustとVert.xとDevopsは興味があります。
