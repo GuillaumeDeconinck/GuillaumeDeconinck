@@ -17,7 +17,7 @@
 - 🌱 最近、Rustを学んでいて、たくさん技術書を読んでいます (Zero2prod, Distributed Systems,  もうすぐ　"How to write an interpreter in Go")。
 - 💞️ ベルギーから、日本での仕事を探しています。
 - 📫 [LinkedIn](https://www.linkedin.com/in/guillaume-deconinck-9b6a8399/)で連絡してください。
-- 🇯🇵 日本語を勉強していますが、まだまだ上手でわありません。日常の会話だけが話せる。Wanikaniで漢字を勉強しています。
+- 🇯🇵 日本語を勉強していますが、まだまだ上手でわありません。日常の会話だけが話せる。[Wanikani](https://www.wanikani.com/users/Soryo)で漢字を勉強しています。
 
 # Projects
 - [Todos API - Node](https://github.com/GuillaumeDeconinck/todos-fastify) => Todos API implemented in Typescript
