@@ -23,7 +23,7 @@
 - [Todos API - Node](https://github.com/GuillaumeDeconinck/todos-fastify) => Todos API implemented in Typescript
 - [Todos API - Rust](https://github.com/GuillaumeDeconinck/todos-rust) => Todos API implemented in Rust
 - [Todos API - Go](https://github.com/GuillaumeDeconinck/todos-go) => Todos API implemented in Go
-- [Hooktify (on hold)](www.hooktify.io) => Tried creating my own Saas, a flow builder. I wrote some blog articles to explain.
+- [Hooktify (on hold)](https://www.hooktify.io) => Tried creating my own Saas, a flow builder. I wrote some blog articles to explain.
 - [Open Source Race Timing System (deprecated)](https://github.com/osrts) => Race timing system implemented for my master thesis at UCLouvain university.
 
 <!---
