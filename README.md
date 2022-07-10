@@ -26,6 +26,9 @@
 - [Hooktify (on hold)](https://www.hooktify.io) => Tried creating my own Saas, a flow builder. I wrote some blog articles to explain.
 - [Open Source Race Timing System (deprecated)](https://github.com/osrts) => Race timing system implemented for my master thesis at UCLouvain university.
 
+# Other stuff
+- [LeetCode](https://leetcode.com/GuillaumeDeconinck/)
+
 <!---
 If there are mistakes in Japanese, sorry 🙏. Do not hesitate to open an issue, I would greatly appreciate it 🙂 !
 --->
