@@ -5,8 +5,7 @@
 - ☁️ I use everyday Docker and Kubernetes, with CI/CD pipelines (Github now, Gitlab previously).
 - 👀 I’m interested in Rust, Event-Sourcing & Devops/GitOps tools.
 - 🌱 I’m currently learning Rust and reading technical books (Zero2prod, Distributed Systems, soon "How to write an interpreter in Go")
-- 💞️ I’m looking for a job in Japan 🇯🇵
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/guillaume-deconinck-9b6a8399/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/guillaume-deconinck-9b6a8399/)
 
 # 日本語
 - 👋 こんにちは、@GuillaumeDeconinckです。
@@ -15,8 +14,7 @@
 - ☁️ 毎日DockerとKubernetesを使います。CI/CDも使います。
 - 👀 RustとEvent-SourcingとDevops/GitOpsは興味があります。
 - 🌱 最近、Rustを学んでいて、たくさん技術書を読んでいます (Zero2prod, Distributed Systems,  もうすぐ　"How to write an interpreter in Go")。
-- 💞️ ベルギーから、日本での仕事を探しています。
-- 📫 [LinkedIn](https://www.linkedin.com/in/guillaume-deconinck-9b6a8399/)で連絡してください。
+- 📫 [LinkedIn](https://www.linkedin.com/in/guillaume-deconinck-9b6a8399/)
 - 🇯🇵 日本語を勉強していますが、まだまだ上手でわありません。日常の会話だけが話せる。[Wanikani](https://www.wanikani.com/users/Soryo)で漢字を勉強しています。
 
 # Projects
