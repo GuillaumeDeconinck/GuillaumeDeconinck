@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @GuillaumeDeconinck.
 - 👨‍💻 I'm a backend NodeJS developer (TypeScript). Technically, I'm a full stack developer, but I mostly prefer the backend side of things.
 - 📚 I have a master's degree in computer science from UCLouvain (university).
-- ☁️ I use everyday Docker and Kubernetes, with CI/CD pipelines (Github now, Gitlab previously).
+- ☁️ I love using Docker and Kubernetes, with CI/CD pipelines (Github, Gitlab & CircleCI).
 - 👀 I’m interested in Rust, Event-Sourcing & Devops/GitOps tools.
 - 🌱 I’m currently learning Rust and reading technical books (Zero2prod, Distributed Systems, soon "How to write an interpreter in Go")
 - 📫 [LinkedIn](https://www.linkedin.com/in/guillaume-deconinck-9b6a8399/)
@@ -11,7 +11,7 @@
 - 👋 こんにちは、@GuillaumeDeconinckです。
 - 👨‍💻 Backend NodeJS developerです。TypeScriptを使います。実際には、私はFull Stack Developerですが、Backendの方がいちばん好きです。
 - 📚 UCLouvain大学で修士号を取得しています。コンピュータサイエンスを勉強しました(JavaやObject OrientedやSQLやBash）。
-- ☁️ 毎日DockerとKubernetesを使います。CI/CDも使います。
+- ☁️ DockerとKubernetesを使うのが大好きです。GitHubやGitLabやCircleCIでCI/CDも使います。
 - 👀 RustとEvent-SourcingとDevops/GitOpsは興味があります。
 - 🌱 最近、Rustを学んでいて、たくさん技術書を読んでいます (Zero2prod, Distributed Systems,  もうすぐ　"How to write an interpreter in Go")。
 - 📫 [LinkedIn](https://www.linkedin.com/in/guillaume-deconinck-9b6a8399/)
